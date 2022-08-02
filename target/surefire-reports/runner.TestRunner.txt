@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 149.735 s <<< FAILURE! - in runner.TestRunner
+User empty Shopping cart message displays(Home Page)  Time elapsed: 6.802 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Your shopping cart is empty!]> but was:<[]>
+
